@@ -32,9 +32,9 @@ code(for: "Garages with vehicles:") {
 }
 /*:
  ### Example 3: Persist order of vehicles as modified by a user using SwiftUI List.
- Re-ordering arrays is one of the cool features about using List in SwiftUI. For this scenario, an array
+ Re-ordering arrays and deleting an entry are some of the cool features about using List in SwiftUI. For this scenario,
  
- is retrieved from a database, shown to the user as items in a SwiftUI List, re-ordered by the user, and
+ an array is retrieved from a database, shown to the user as items in a SwiftUI List, re-ordered by the user, and
  
  then saved back to the DB. Several potential issues may occur in this scenario that include:
 
